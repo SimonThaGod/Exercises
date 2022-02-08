@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simbj\\iCloudDrive\\Documents\\4_Semester\\SWT\\Exercise1\\Calculator\\Calculator.csproj": {}
+    "C:\\Skole\\4Semester\\SoftwareTest\\SimonThaGod\\Exercises\\Exercise1\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simbj\\iCloudDrive\\Documents\\4_Semester\\SWT\\Exercise1\\Calculator\\Calculator.csproj": {
+    "C:\\Skole\\4Semester\\SoftwareTest\\SimonThaGod\\Exercises\\Exercise1\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simbj\\iCloudDrive\\Documents\\4_Semester\\SWT\\Exercise1\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Skole\\4Semester\\SoftwareTest\\SimonThaGod\\Exercises\\Exercise1\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\simbj\\iCloudDrive\\Documents\\4_Semester\\SWT\\Exercise1\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\simbj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simbj\\iCloudDrive\\Documents\\4_Semester\\SWT\\Exercise1\\Calculator\\obj\\",
+        "projectPath": "C:\\Skole\\4Semester\\SoftwareTest\\SimonThaGod\\Exercises\\Exercise1\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
+        "outputPath": "C:\\Skole\\4Semester\\SoftwareTest\\SimonThaGod\\Exercises\\Exercise1\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\simbj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
