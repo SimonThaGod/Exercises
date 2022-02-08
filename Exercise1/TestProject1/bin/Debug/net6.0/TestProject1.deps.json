@@ -9,6 +9,7 @@
       "TestProject1/1.0.0": {
         "dependencies": {
           "Calculator": "1.0.0",
+          "JunitXml.TestLogger": "3.0.110",
           "Microsoft.NET.Test.Sdk": "16.11.0",
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "4.0.0",
@@ -19,6 +20,7 @@
         }
       },
       "coverlet.collector/3.1.0": {},
+      "JunitXml.TestLogger/3.0.110": {},
       "Microsoft.CodeCoverage/16.11.0": {
         "runtime": {
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -670,6 +672,13 @@
       "sha512": "sha512-YzYqSRrjoP5lULBhTDcTOjuM4IDPPi6PhFsl4w8EI4WdZhE6llt7E38Tg4CHyrS+QKwyu1+9OwkdDgluOdoBTw==",
       "path": "coverlet.collector/3.1.0",
       "hashPath": "coverlet.collector.3.1.0.nupkg.sha512"
+    },
+    "JunitXml.TestLogger/3.0.110": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D0Kl9mNnbSZgEa8ZgsEAJskPvyrC9k+5BsEWUqvNr++BZJbYIb08fwe0ohvb6WEzJlMPmeLJMmvQuw5yIq3gjA==",
+      "path": "junitxml.testlogger/3.0.110",
+      "hashPath": "junitxml.testlogger.3.0.110.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/16.11.0": {
       "type": "package",

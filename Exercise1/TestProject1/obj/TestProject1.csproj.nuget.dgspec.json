@@ -98,6 +98,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "JunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[3.0.110, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.11.0, )"

@@ -208,3 +208,6 @@ C:\Skole\4Semester\SoftwareTest\SimonThaGod\Exercises\Exercise1\TestProject1\obj
 C:\Skole\4Semester\SoftwareTest\SimonThaGod\Exercises\Exercise1\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
 C:\Skole\4Semester\SoftwareTest\SimonThaGod\Exercises\Exercise1\TestProject1\obj\Debug\net6.0\TestProject1.pdb
 C:\Skole\4Semester\SoftwareTest\SimonThaGod\Exercises\Exercise1\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
+C:\Skole\4Semester\SoftwareTest\SimonThaGod\Exercises\Exercise1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestLogger.dll
+C:\Skole\4Semester\SoftwareTest\SimonThaGod\Exercises\Exercise1\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestAdapter.dll
+C:\Skole\4Semester\SoftwareTest\SimonThaGod\Exercises\Exercise1\TestProject1\bin\Debug\net6.0\Spekt.TestLogger.dll

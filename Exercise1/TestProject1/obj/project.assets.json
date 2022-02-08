@@ -8,6 +8,12 @@
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+      "JunitXml.TestLogger/3.0.110": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.5/JUnitXml.TestLogger.props": {}
+        }
+      },
       "Microsoft.CodeCoverage/16.11.0": {
         "type": "package",
         "compile": {
@@ -945,6 +951,23 @@
         "coverlet-icon.png",
         "coverlet.collector.3.1.0.nupkg.sha512",
         "coverlet.collector.nuspec"
+      ]
+    },
+    "JunitXml.TestLogger/3.0.110": {
+      "sha512": "D0Kl9mNnbSZgEa8ZgsEAJskPvyrC9k+5BsEWUqvNr++BZJbYIb08fwe0ohvb6WEzJlMPmeLJMmvQuw5yIq3gjA==",
+      "type": "package",
+      "path": "junitxml.testlogger/3.0.110",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestAdapter.dll",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestLogger.dll",
+        "build/_common/Spekt.TestLogger.dll",
+        "build/net46/JUnitXml.TestLogger.props",
+        "build/netstandard1.5/JUnitXml.TestLogger.props",
+        "junitxml.testlogger.3.0.110.nupkg.sha512",
+        "junitxml.testlogger.nuspec",
+        "packageIcon.png"
       ]
     },
     "Microsoft.CodeCoverage/16.11.0": {
@@ -3864,6 +3887,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Calculator >= 1.0.0",
+      "JunitXml.TestLogger >= 3.0.110",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
@@ -3913,6 +3937,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "JunitXml.TestLogger": {
+            "target": "Package",
+            "version": "[3.0.110, )"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[16.11.0, )"
